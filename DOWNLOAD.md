@@ -1,6 +1,6 @@
 Dataset **Electric Pole** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/a/K/68/dPMCbsboaaRoHmONhQBrXnhgynPjXakizlKOhJdjIUCyJAktLfnDMP8NNGunWKtTx7utMmS8IGoqIcxb5I1Z2hlAEjTYNWnMKGAiPuLMeizuMUyX7paR1eE5uD0s.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/a/K/68/dPMCbsboaaRoHmONhQBrXnhgynPjXakizlKOhJdjIUCyJAktLfnDMP8NNGunWKtTx7utMmS8IGoqIcxb5I1Z2hlAEjTYNWnMKGAiPuLMeizuMUyX7paR1eE5uD0s.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
