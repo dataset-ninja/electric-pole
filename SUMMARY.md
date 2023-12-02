@@ -1,8 +1,8 @@
-**Electric Pole** is a dataset for object detection tasks. It is used in the energy industry.
+**Electric Pole Detection** is a dataset for an object detection task. Possible applications of the dataset could be in the utilities industry. 
 
-The dataset consists of 75 images with 108 labeled objects belonging to 1 single class (*pole*).
+The dataset consists of 93 images with 117 labeled objects belonging to 1 single class (*electric pole*).
 
-Each image in the Electric Pole dataset has bounding box annotations. All images are labeled (i.e. with annotations). There are 3 splits in the dataset: *test* (8 images), *valid* (15 images), and *train* (52 images). The dataset was released in 2022 by the [Ritsumeikan University, Japan](https://en.ritsumei.ac.jp/).
+Images in the Electric Pole Detection dataset have bounding box annotations. There is 1 unlabeled image (i.e. without annotations). There are 2 splits in the dataset: *train* (84 images) and *test* (9 images). The dataset was released in 2019.
 
 Here is the visualized example grid with annotations:
 
