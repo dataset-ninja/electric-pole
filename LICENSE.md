@@ -1,1 +1,3 @@
-Electric Pole is under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+License is unknown for the Electric Pole Detection dataset.
+
+[Source](https://github.com/kabrabharat/Electric-Pole-detection-using-darknet/tree/master)

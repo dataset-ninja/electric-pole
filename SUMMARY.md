@@ -4,6 +4,4 @@ The dataset consists of 93 images with 117 labeled objects belonging to 1 single
 
 Images in the Electric Pole Detection dataset have bounding box annotations. There is 1 unlabeled image (i.e. without annotations). There are 2 splits in the dataset: *train* (84 images) and *test* (9 images). The dataset was released in 2019.
 
-Here is the visualized example grid with annotations:
-
-<img src="https://github.com/dataset-ninja/electric-pole/raw/main/visualizations/horizontal_grid.png">
+<img src="https://github.com/dataset-ninja/electric-pole/raw/main/visualizations/poster.png">
